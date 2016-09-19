@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicNow</string>
+    <!--FraMyMuisc-->
+    <string name="download">下载音乐</string>
+    <string name="recent">最近播放</string>
+    <string name="local">本地音乐</string>
+    <string name="singer">我的歌手</string>
+</resources>
